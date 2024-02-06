@@ -1,0 +1,23 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app for backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chaibackend"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Sujan Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
